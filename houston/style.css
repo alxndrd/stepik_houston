@@ -1,0 +1,37 @@
+body {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 1.5em;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+table {
+  border: 1px solid black;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 3px;
+}
+
+figure {
+  float: right;
+  width: 15em;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  width: 100%;
+}
